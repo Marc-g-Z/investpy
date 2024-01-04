@@ -1,7 +1,8 @@
 repo_name: Marc-g-Z/investpy
 report_id: 30dc2df4a51ce1c8ebb5b5b8c758be20
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T15:49:10+00:00'
+timestamp: '2024-01-04T14:58:43+00:00'
 requested_by: web-flow
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/Marc-g-Z/investpy
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -25,6 +27,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Marc-g-Z/investpy
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -34,6 +37,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/Marc-g-Z/investpy/blob/master/.github/workflows/run_tests.yml
   detection_source: ".github/workflows/run_tests.yml"
   last_updated_by: Álvaro Bartolomé
   last_updated_on: 2021-06-05 09:24:40.000000000 Z
@@ -45,6 +49,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/Marc-g-Z/investpy/blob/master/requirements/tests-requirements.txt
   detection_source: requirements/tests-requirements.txt
   last_updated_by: Álvaro Bartolomé
   last_updated_on: 2021-10-25 08:57:42.000000000 Z
@@ -58,7 +63,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/4586/Lu99Qe0Z_400x400.png
-  detection_source_url: requirements/tests-requirements.txt
+  detection_source_url: https://github.com/Marc-g-Z/investpy/blob/master/requirements/tests-requirements.txt
   detection_source: requirements/tests-requirements.txt
   last_updated_by: Álvaro Bartolomé
   last_updated_on: 2021-10-25 08:57:42.000000000 Z
@@ -72,7 +77,7 @@ tools:
   category: Libraries
   sub_category: Data Science Tools
   image_url: https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png
-  detection_source_url: requirements/requirements.txt
+  detection_source_url: https://github.com/Marc-g-Z/investpy/blob/master/requirements/requirements.txt
   detection_source: requirements/requirements.txt
   last_updated_by: alvarob96
   last_updated_on: 2019-12-15 09:58:42.000000000 Z
@@ -85,6 +90,7 @@ tools:
   category: Application Utilities
   sub_category: Search Engines
   image_url: https://img.stackshare.io/service/1598/TtqoAo1V.png
+  detection_source_url: https://github.com/Marc-g-Z/investpy/blob/master/requirements/docs-requirements.txt
   detection_source: requirements/docs-requirements.txt
   last_updated_by: Alvaro Bartolome
   last_updated_on: 2021-06-13 12:51:35.000000000 Z
